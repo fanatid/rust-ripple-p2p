@@ -1,0 +1,7 @@
+{
+  "name": "js-ripple-p2p",
+  "dependencies": {
+    "base-x": "^3.0.8",
+    "secp256k1": "^4.0.0"
+  }
+}
